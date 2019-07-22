@@ -1,0 +1,22 @@
+1号线:刘园 f,西横堤 f,果酒厂 f,本溪路 f,勤俭道 f,洪湖里 f,西站 t,西北角 f,西南角 t,二纬路 f,海光寺 f,鞍山道 f,营口道 t,小白楼 f,下瓦房 t,南楼 f,土城 f,陈塘庄 f,复兴门 f,华里山 f,财经大学 f,双林 f,李楼
+2号线:曹庄 f,卞兴 f,芥园西道 f,咸阳路 f,长虹公园 t,广开四马路 f,西南角 t,鼓楼 f,东南角 f,建国道 f,天津站 t,远洋国际中心 f,顺驰桥 f,靖江路 t,翠阜新村 f,屿东城 f,登州路 f,国山路 f,空港经济区 f,滨海国际机场
+3号线:小淀 f,丰产河 f,华北集团 f,天力士 f,宜兴埠 f,张兴庄 t,铁东路 f,北站 t,中山路 f,金狮桥 f,天津站 t,津湾广场 f,和平路 f,营口道 t,西康路 f,吴家窑 f,天塔 f,周邓纪念馆 f,红旗南路 t,王顶堤 f,花苑 f,大学城 f,高新区 f,学府工业区 f,杨伍庄 f,南站
+5号线:北辰科技园北 f,丹河北道 f,北辰道 f,职业大学 f,淮河道 f,辽河北道 f,张兴庄 t,志成路 f,思源道 f,建昌道 f,金钟河大街 t,月牙河 f,幸福公园 f,靖江路 t,成林道 f,津塘路 f,直沽 t,下瓦房 t,西南楼 f,文化中心 t,天津宾馆 t,肿瘤医院 t,体育中心 f,凌宾路 f,昌凌路 f,中医一附院 f,李七庄南
+6号线:南孙庄 f,南何庄 f,大毕庄 f,金钟街 f,徐庄子 f,金钟河大街 t,民权门 f,北宁公园 f,北站 t,新开河 f,外院附中 f,天泰路 f,北运河 f,北竹林 f,西站 t,复兴路 f,人民医院 f,长虹公园 t,宜宾道 f,鞍山西道 f,天拖 f,一中心医院 f,红旗南路 t,迎风道 f,南翠屏 f,水上公园东路 f,肿瘤医院 t,天津宾馆 t,文化中心 t,乐园道 f,尖山路 f,黑牛城道 f,梅江道 f,左江道 f,梅江公园 f,梅江会展中心 f,解放南路 f,洞庭路 f,梅林路
+9号线:天津站 t,大王庄 f,十一经路 f,直沽 t,东兴门 f,中山门 f,一号桥 f,二号桥 f,张贵庄 f,新立 f,东丽开发区 f,小东庄 f,军粮城 f,钢管公司 f,胡家园 f,塘沽 f,泰达 f,市民广场 f,太湖路 f,会展中心 f,东海路
+INF,INF,2,4,INF,INF,INF,INF,INF,INF,INF,INF,INF,INF,INF
+INF,INF,INF,INF,3,2,INF,INF,INF,INF,INF,INF,INF,INF,INF
+INF,6,INF,INF,INF,INF,3,INF,INF,INF,INF,INF,INF,INF,INF
+INF,INF,3,INF,INF,INF,INF,3,INF,INF,INF,INF,INF,INF,INF
+INF,INF,INF,INF,INF,2,INF,INF,INF,INF,5,INF,INF,INF,INF
+INF,INF,INF,INF,INF,INF,4,INF,4,INF,INF,INF,INF,INF,INF
+INF,INF,INF,INF,INF,INF,INF,3,3,3,INF,INF,INF,INF,INF
+INF,INF,INF,INF,INF,INF,INF,INF,INF,3,INF,INF,INF,INF,INF
+INF,INF,INF,INF,INF,INF,INF,INF,INF,INF,5,2,INF,INF,INF
+INF,INF,INF,INF,INF,INF,INF,INF,INF,INF,INF,1,INF,INF,INF
+INF,INF,INF,INF,INF,INF,INF,INF,INF,INF,INF,INF,4,INF,INF
+INF,INF,INF,INF,INF,INF,INF,INF,INF,INF,INF,INF,INF,INF,2
+INF,INF,INF,INF,INF,INF,INF,INF,INF,INF,INF,INF,INF,1,INF
+INF,INF,INF,INF,INF,INF,INF,INF,INF,INF,INF,INF,1,INF,1
+INF,INF,INF,INF,INF,INF,INF,INF,INF,INF,INF,INF,INF,1,INF
+
