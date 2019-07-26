@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd18826c-4cbc-4f3c-a0a8-d8de9c25c68b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestTT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/TestMain/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/core/Core.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/core/DijkstraUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/core/MyErrorStationNameException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/core/MyNullStationNameException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/data/DistanceBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/demo/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/model/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/model/Station.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/path.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routine.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/station.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/subway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/subway.txt" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/subway_0653$DijkstraUtilTest_testCalculate.ic" NAME="DijkstraUtilTest.testCalculate Coverage Results" MODIFIED="1564036935613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.main.com.core.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/subway_0653$subway.ic" NAME="subway Coverage Results" MODIFIED="1564037787757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="17" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/subway.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/com/core/MyNullStationNameException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="39" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="39" />
+              <folding>
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#177#178#0" expanded="true" />
+                <element signature="e#207#208#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/com/core/DijkstraUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="131">
+              <caret line="36" column="34" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/com/demo/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="27" column="47" lean-forward="true" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/com/core/Core.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/main/com/core/DijkstraUtilTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="64" column="4" lean-forward="true" selection-start-line="62" selection-start-column="3" selection-end-line="64" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/com/core/MyErrorStationNameException.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Subway1.java" />
+        <option value="$PROJECT_DIR$/src/main/com/demo/test.java" />
+        <option value="$PROJECT_DIR$/src/main/com/model/Station.java" />
+        <option value="$PROJECT_DIR$/src/main/com/TestMain/test.java" />
+        <option value="$PROJECT_DIR$/src/main/com/core/DijkstraUtilTest.java" />
+        <option value="$PROJECT_DIR$/test/main/com/core/DijkstraUtilTest.java" />
+        <option value="$PROJECT_DIR$/src/TestTT.java" />
+        <option value="$PROJECT_DIR$/src/main/com/data/DistanceBuilder.java" />
+        <option value="$PROJECT_DIR$/src/subway.java" />
+        <option value="$PROJECT_DIR$/src/main/com/core/DijkstraUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/com/model/Result.java" />
+        <option value="$PROJECT_DIR$/src/main/com/core/MyException.java" />
+        <option value="$PROJECT_DIR$/src/main/com/core/MyNullStationNameException.java" />
+        <option value="$PROJECT_DIR$/src/main/com/core/MyErrorStationNameException.java" />
+        <option value="$PROJECT_DIR$/src/test/main/com/core/DijkstraUtilTest.java" />
+        <option value="$PROJECT_DIR$/src/main/com/core/Core.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="21" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="subway-0653" type="b2602c69:ProjectViewProjectNode" />
+              <item name="subway-0653" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="subway-0653" type="b2602c69:ProjectViewProjectNode" />
+              <item name="subway-0653" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="subway-0653" type="b2602c69:ProjectViewProjectNode" />
+              <item name="subway-0653" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="subway-0653" type="b2602c69:ProjectViewProjectNode" />
+              <item name="subway-0653" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564056170916" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="D:/Program Files/nodejs/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="main.com.core" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main.com.core" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\pxy\se培训学习\项目案例\BUAA-Subway-Project\subway-0653\src" />
+      <recent name="E:\pxy\se培训学习\项目案例\BUAA-Subway-Project\subway-0653" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\pxy\se培训学习\项目案例\BUAA-Subway-Project\subway-0653\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.DijkstraUtilTest.testCalculate">
+    <configuration name="Subway1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Subway1" />
+      <module name="subway-0653" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestTT" />
+      <module name="subway-0653" />
+      <option name="PROGRAM_PARAMETERS" value="-map -1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="subway" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="subway" />
+      <module name="subway-0653" />
+      <option name="PROGRAM_PARAMETERS" value="-b 洪湖里  复兴路 -map subway.txt -o routine.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DijkstraUtilTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="subway-0653" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.com.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.com.core" />
+      <option name="MAIN_CLASS_NAME" value="main.com.core.DijkstraUtilTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DijkstraUtilTest.testCalculate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="subway-0653" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.main.com.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.main.com.core" />
+      <option name="MAIN_CLASS_NAME" value="test.main.com.core.DijkstraUtilTest" />
+      <option name="METHOD_NAME" value="testCalculate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.subway" />
+      <item itemvalue="Application.Subway1" />
+      <item itemvalue="Application.TestTT" />
+      <item itemvalue="JUnit.DijkstraUtilTest" />
+      <item itemvalue="JUnit.DijkstraUtilTest.testCalculate" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DijkstraUtilTest.testCalculate" />
+        <item itemvalue="Application.subway" />
+        <item itemvalue="Application.TestTT" />
+        <item itemvalue="Application.Subway1" />
+        <item itemvalue="JUnit.DijkstraUtilTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd18826c-4cbc-4f3c-a0a8-d8de9c25c68b" name="Default Changelist" comment="" />
+      <created>1563776958877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563776958877</updated>
+      <workItem from="1563776969511" duration="21000" />
+      <workItem from="1563777011165" duration="2783000" />
+      <workItem from="1563866329132" duration="775000" />
+      <workItem from="1563976366986" duration="2885000" />
+      <workItem from="1564026425396" duration="7524000" />
+      <workItem from="1564034034466" duration="1412000" />
+      <workItem from="1564035493449" duration="15001000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DijkstraUtilTest_testCalculate - 2019.07.25 at 17h 02m 09s.xml">
+      <configuration name="DijkstraUtilTest.testCalculate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DijkstraUtilTest_testCalculate - 2019.07.25 at 17h 03m 11s.xml">
+      <configuration name="DijkstraUtilTest.testCalculate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DijkstraUtilTest_testCalculate - 2019.07.25 at 17h 03m 53s.xml">
+      <configuration name="DijkstraUtilTest.testCalculate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DijkstraUtilTest_testCalculate - 2019.07.25 at 17h 04m 35s.xml">
+      <configuration name="DijkstraUtilTest.testCalculate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DijkstraUtilTest_testCalculate - 2019.07.25 at 19h 18m 39s.xml">
+      <configuration name="DijkstraUtilTest.testCalculate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DijkstraUtilTest_testCalculate - 2019.07.25 at 19h 19m 06s.xml">
+      <configuration name="DijkstraUtilTest.testCalculate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DijkstraUtilTest_testCalculate - 2019.07.25 at 19h 19m 31s.xml">
+      <configuration name="DijkstraUtilTest.testCalculate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DijkstraUtilTest_testCalculate - 2019.07.25 at 19h 21m 24s.xml">
+      <configuration name="DijkstraUtilTest.testCalculate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DijkstraUtilTest_testCalculate - 2019.07.25 at 19h 22m 09s.xml">
+      <configuration name="DijkstraUtilTest.testCalculate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DijkstraUtilTest_testCalculate - 2019.07.25 at 19h 23m 17s.xml">
+      <configuration name="DijkstraUtilTest.testCalculate" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="30401000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2602118" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49621785" weight="0.38625205" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49319214" weight="0.21440262" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50680786" side_tool="true" weight="0.21440262" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="SciView" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.022692889" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../subway-6231/src/Subway.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/core/DijkstraUtil.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/com/data/DistanceBuilder.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/com/model/Result.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/com/model/Station.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/com/core/DijkstraUtilTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/Subway1.java" />
+    <entry file="file://$PROJECT_DIR$/test/main/com/core/DijkstraUtilTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_112/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="763" column="45" selection-start-line="763" selection-start-column="45" selection-end-line="763" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/TestMain/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Subway1.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestTT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/core/MyException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="11" />
+          <folding>
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/subway.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/core/MyNullStationNameException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="39" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="39" />
+          <folding>
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/model/Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="150" selection-start-line="150" selection-end-line="150" />
+          <folding>
+            <element signature="e#1802#1803#0" expanded="true" />
+            <element signature="e#1837#1838#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/core/MyErrorStationNameException.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/demo/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="27" column="47" lean-forward="true" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/data/DistanceBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4295">
+          <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/core/DijkstraUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="36" column="34" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/model/Station.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="86" column="11" selection-start-line="86" selection-start-column="11" selection-end-line="86" selection-end-column="11" />
+          <folding>
+            <element signature="e#1474#1475#0" expanded="true" />
+            <element signature="e#1506#1507#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/core/Core.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/main/com/core/DijkstraUtilTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="64" column="4" lean-forward="true" selection-start-line="62" selection-start-column="3" selection-end-line="64" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.6 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>subway-0653</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
